@@ -1,0 +1,24 @@
+body{
+    background-color: #e6ecf1;
+}
+.gs{
+    margin-top: auto;
+}
+.img-thumbnail{
+    height: 510px;
+    width: 630px;
+    margin-top: auto;
+}
+.carousel-item{
+    height: 300px;
+}
+.card{
+    height: 100%;
+    width: 100%;
+    background-color: #e6ecf1;
+    margin-top: 5px;
+}
+.card-img{
+    height: 100%;
+    width: 100%;
+}

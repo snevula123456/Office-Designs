@@ -1,0 +1,73 @@
+body{
+    background-color: #eae5e5;;
+}
+.navbar {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    margin-left: 35px;
+}
+.nav-link{
+    margin-right: 20px;
+}
+#co{
+    color: red;
+}
+.first{
+    margin-top: 30px;
+}
+.big{
+    background-color: #fff;
+}
+.col-md-8{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.some{
+    justify-content: center;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    margin-right: 30px;
+}
+.col-md-3{
+    background-color: white;
+}
+.foll{
+    margin-top: 30px;
+}
+.icons{
+    margin-right: 15px;
+    margin-top: 15px;
+}
+.foller{
+    margin-top: 20px;
+    color: red;
+}
+.cate{
+    margin-top: 25px;
+}
+.fina{
+    margin-top: 20px;
+    color: #cec4c4
+}

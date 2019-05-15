@@ -1,0 +1,37 @@
+ .container {
+        margin-top: 40px;
+    }
+.vertical{
+    border-right: 1px solid black;
+}
+.display3{
+    margin-top: 20px;
+    color: rgba(115, 224, 184, 0.7);
+    text-align: center;
+
+}
+.img{
+    border-top: 20px solid rgba(115, 224, 184, 0.7);
+    border-right: 20px solid rgba(115, 224, 184, 0.7);
+    border-bottom: 20px solid rgba(115, 224, 184, 0.7);
+    border-left: 20px solid rgba(115, 224, 184, 0.7);
+    border-bottom-right-radius: 50%;
+    border-top-left-radius: 50%;
+    transition: 400ms ease-in-out;
+    margin-left: auto;
+    margin-right: auto;
+}
+ .blo:hover .img{
+    border-bottom-right-radius: 0%;
+    border-bottom-left-radius: 50%;
+    border-top-left-radius: 0%;
+    border-top-right-radius: 50%;
+    transition: 400ms ease-in-out;
+}
+ h4:hover{
+     color:black;
+ }
+
+p{
+ text-align: justify;
+}
